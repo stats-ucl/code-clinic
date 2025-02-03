@@ -1,11 +1,11 @@
-# :mag: Oxford code review network
+# UCL Department of Statistical Science: Code Club
 
-[Code review guidelines](#guidelines) | [Getting started](#gettingstarted) | [Tools for remote code reviews](remote.md) | [Guidelines for reviewers](guidelines_for_reviewers.md) | [Events](#whatshappening) :mega:
+[Getting started](#gettingstarted) | [Tools for remote code reviews](remote.md) | [Guidelines for reviewers](guidelines_for_reviewers.md) | [Events](#whatshappening) :mega:
 
 Want to get feedback on your code? Could use a second pair of eyes to track down a bug?
 Interested in reviewing other researchers' code?
 
-This repository acts as a central place for organising **code reviews at the University of Oxford**.
+This repository acts as a central place for organising **code reviews for UCL Department of Statistical Science**.
 If you'd like your code to be reviewed by someone else, simply open an issue with a brief description of your code.
 If you'd like to volunteer to review some research code, just leave a comment on the corresponding issue to let the author know that you're available to review their code.
 If you'd like to participate but are not familiar with GitHub or/and its issue tracking system, see the [getting started section](#gettingstarted).
@@ -17,44 +17,19 @@ It is an opportunity for both to exchange about their respective software practi
 
 You can find more information about code reviews by reading the [Code review guidelines](#guidelines) section.
 
-You can also [watch an introduction to OxCRN (YouTube)](https://www.youtube.com/watch?v=6g1GfTgSVbY&t=1276s). :tv:
-
 Engaging in regular code reviews, both as reviewer and reviewee, can have a **tremendous impact on the quality of your research software**: it will be more readable, maintainable and extendable, both by yourself and your colleagues.
 This means a more efficient, more reproducible and easier to disseminate research. To learn more about the benefit of code reviews for research software, see [Why code reviews?](#whatarecodereviews).
 
 If you don't feel confident in your ability to review code, you might be surprised!
 See the [guidelines for reviewers](guidelines_for_reviewers.md).
 
-The Oxford Code Review Network is supported by the [Oxford Research Software Engineering group](https://www.rse.ox.ac.uk/) and [Reproducible Research Oxford](https://ox.ukrn.org/).
+> This repo was forked form The Oxford Code Review Network. See the [Oxford Research Software Engineering group](https://www.rse.ox.ac.uk/) and [Reproducible Research Oxford](https://ox.ukrn.org/).
+
 Everyone is welcome to contribute to this repository, see [the contributing guidelines](CONTRIBUTING.md).
 
 ## Community
 
-OxCRN aims at building an active and welcoming community through regular events. Please [subscribe to the OxCRN mailing list](#whatshappening) to receive updates. :incoming_envelope:
-
-You can also [Join the OxCRN Slack workspace](https://join.slack.com/t/oxfordcodereviewnet/shared_invite/zt-fnitmq4n-_hVZyaFdFfC0lbLb47gtww). _If your mail domain is not in the list of authorized domains, feel free to request an invitation._
-_If you want to get in touch, but don't want to use Slack, feel free to contact one of the main contributors by email (you can find them on the right)._
-
-## <a name="whatshappening"></a> Upcoming events
-
-OxCRN aims at building an active and welcoming community through regular events.
-
-Please subscribe to `oxcrn-announce@maillist.ox.ac.uk`. Click [here](https://web.maillist.ox.ac.uk/ox/subscribe/oxcrn-announce) to do so.
-
-### OxCRN remote launch event - 17.07.2020 14:00-15:00
-
-- Introduction to OxCRN
-- Goals and roadmap
-- code review demo :microscope:
-- How to get involved
-- Open discussion :tea: :coffee:
-
-[Watch the presentation on YouTube](https://www.youtube.com/watch?v=6g1GfTgSVbY&t=1276s).
-
-## <a name="guidelines"></a> Code review guidelines
-
-**All code reviews are executed remotely until further notice.**
-**See [remote code reviews](remote.md) for advice about carrying out remote code reviews.**
+We aims at building an active and welcoming community through regular events.
 
 ### Typical code review scenario
 
@@ -84,8 +59,7 @@ At the same time, Sam notices that Priya is using something called a "python vir
 
 ### Format of code reviews
 
-~~Ideally, the code review is carried out face to face, the developer and reviewer sitting together.~~
-
+Ideally, the code review is carried out face to face, the developer and reviewer sitting together.
 If not possible, you can [do code reviews remotely](remote.md).
 
 Typically, a code review starts with the author of the code walking the reviewer trough the code, explaining the details of the implementation.
@@ -94,9 +68,9 @@ Questions, comments and suggestions will naturally arise.
 
 ### Location
 
-~~The location of the code review (or the tool used for the remote meeting) is left to the author and reviewer to decide upon (your lab/department, a library, a local café, University Parks...).~~
+The location of the code review (or the tool used for the remote meeting) is left to the author and reviewer to decide upon (your lab/department, a library, a local café, University Parks...).
 
-All code reviews must be carried out remotely at the moment. Please have a look at the [list of options for remote code reviews](remote.md).
+If code reviews are carried out remotely, please have a look at the [list of options for remote code reviews](remote.md).
 
 ### Duration and scope of the review
 
