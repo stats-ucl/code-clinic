@@ -1,4 +1,4 @@
-# UCL Department of Statistical Science: Code Club
+# UCL Department of Statistical Science: Code Clinic
 
 [Getting started](#gettingstarted) | [Tools for remote code reviews](remote.md) | [Guidelines for reviewers](guidelines_for_reviewers.md) | [Events](#whatshappening) :mega:
 
