@@ -36,13 +36,13 @@ We aims at building an active and welcoming community through regular events.
 *Both Priya and Sam are fictitious individuals. Any resemblance to real and actual names is purely coincidental.*
 
 Priya is a researcher in the Physics Department, and she's currently writing a small python library to process her experimental data.
-She would like to get in touch with other python programmers in Oxford to have someone else look at her code, potentially highlighting unexpected issues and providing some feedback on her coding style.
+She would like to get in touch with other python programmers to have someone else look at her code, potentially highlighting unexpected issues and providing some feedback on her coding style.
 Priya selects a small portion of her library (about 300 lines) that she thinks is representative.
 She opens [an issue](https://github.com/OxfordCodeReviewNet/forum/issues/3#issue-636951537) on this repository.
 
 Sam is a post-doc in the Department of Zoology. They primarily use R for their data analysis, but they have been learning python recently.
 They find Priya's issue on this repo, and decide it's a good opportunity to have a close look a some real life python... as well as helping out a colleague!
-Sam leaves [a comment](https://github.com/OxfordCodeReviewNet/forum/issues/3#issuecomment-642595092) on Priya's issue, and they both decide to meet on MS Teams next week.
+Sam leaves a comment on Priya's issue, and they both decide to meet on MS Teams next week.
 
 Priya has a look at the [guidelines for remote code reviews](remote.md) and decides to use [tmate](https://tmate.io/) to live share her Vim session with Sam.
 Both meet on MS Teams as planned, and Priya briefly describes the context of her research to Sam (who's trying their best to recall their A-level physics).
@@ -110,7 +110,7 @@ Make sure you're logged into your GitHub account. If you don't have a GitHub acc
 ### Propose a code review
 
 1. If you want to propose a code review, you must first _open an issue_.
-At the top of this page, under "**OxfordCodeReviewNet**/**forum**", click on _Issues_.
+At the top of this page, click on _Issues_.
 Here's an illustration from another repository "octo-repo".
 ![open issue illustration](https://help.github.com/assets/images/help/repository/repo-tabs-issues.png "Logo Title Text 1")
 2. You can then create a new issue by clicking the green button _New issue_ on the top right of the screen.
